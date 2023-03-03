@@ -1,0 +1,23 @@
+{
+  "name": "linkedlist",
+  "version": "1.0.0",
+  "description": "Linked List and testing practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhladnik/linkedList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhladnik/linkedList/issues"
+  },
+  "homepage": "https://github.com/jhladnik/linkedList#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
